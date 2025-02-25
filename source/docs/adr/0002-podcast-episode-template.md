@@ -62,7 +62,14 @@ Keywords: [5-7 KEYWORDS SEPARATED BY COMMAS]
 
 # Summary
 
+[summary]
+
 # Sponsors
+
+- sponsor 1
+- sponsor 2
+- ...
+- sponsor N
 
 # Featuring
 
@@ -73,7 +80,7 @@ Keywords: [5-7 KEYWORDS SEPARATED BY COMMAS]
 
 # Key Takeaways
 
-- [00:00] - Introduction
+- [00:00] - Introduction (Intro)
 - [MM:SS] - [TOPIC]
 - [MM:SS] - [TOPIC]
 - [MM:SS] - [TOPIC]
@@ -81,7 +88,7 @@ Keywords: [5-7 KEYWORDS SEPARATED BY COMMAS]
 - [MM:SS] - [TOPIC]
 - [MM:SS] - Guest introduction (if applicable)
 - [MM:SS] - Listener questions
-- [MM:SS] - Conclusion
+- [MM:SS] - Conclusion (Outro)
 
 Full Transcript: [link]
 
