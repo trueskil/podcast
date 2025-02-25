@@ -121,4 +121,96 @@ Full Transcript: [link]
 [full or link to transcript]
 ```
 
+### Github Issue Template
+
+```md
+---
+name: Podcast Episode Production
+about: Tracking template for producing a new podcast episode
+title: '[EPISODE] Episode {number}: {title}'
+labels: podcast, production
+assignees: ''
+---
+
+# Episode Details
+
+- **Episode Number:**
+- **Title:**
+- **Release Date:**
+- **Duration:**
+- **Category:**
+- **Episode Type:** <!-- SOLO/GUEST INTERVIEW/MIXED -->
+- **Guest:** <!-- if applicable -->
+- **Owner:** ACME Inc
+- **Produced by:** Media Inc
+- **Copyright:** © 2025 ACME Inc. All Rights Reserved
+- **Keywords:** <!-- 5-7 keywords separated by commas -->
+
+## Pre-Recording Checklist
+
+- [ ] Equipment checked and ready
+- [ ] Episode outline reviewed
+- [ ] Research completed
+- [ ] Guest confirmed (if applicable)
+- [ ] Recording environment prepared
+
+## Content Structure
+
+- [ ] Intro segment prepared (60-90 seconds)
+- [ ] News roundup items selected (3-5 minutes)
+- [ ] Main content segments outlined:
+  - [ ] Segment 1: Topic introduction
+  - [ ] Segment 2: Deep dive
+  - [ ] Segment 3: Practical applications
+  - [ ] Segment 4: Future outlook
+- [ ] Guest segment questions prepared (if applicable)
+- [ ] Listener questions selected
+- [ ] Outro segment prepared (60-90 seconds)
+
+## Recording Session
+
+- [ ] Audio levels checked
+- [ ] Recording completed
+- [ ] Backup recording saved
+- [ ] Raw file exported
+
+## Post-Production
+
+- [ ] Edit out dead air and mistakes
+- [ ] Add intro/outro music
+- [ ] Insert ad spots at timestamps:
+  - [ ] Timestamp 1:
+  - [ ] Timestamp 2:
+- [ ] Normalize audio levels
+- [ ] Add copyright metadata
+- [ ] Export with ID3 tags
+- [ ] Final quality check
+
+## Show Notes & Distribution
+
+- [ ] Episode description written
+- [ ] Detailed show notes created
+- [ ] Timestamps added
+- [ ] Transcript generated
+- [ ] Resources and links compiled
+- [ ] Upload to podcast host
+- [ ] Schedule social media posts:
+  - [ ] Twitter
+  - [ ] LinkedIn
+  - [ ] Other platforms
+- [ ] Update show notes on website
+- [ ] Send newsletter to subscribers
+- [ ] Notify guest of publication (if applicable)
+
+## Feedback & Analytics
+
+- [ ] Set up listener feedback form
+- [ ] Configure analytics tracking
+- [ ] Schedule review of episode performance (1 week after release)
+
+## Additional Notes
+
+<!-- Add any episode-specific notes or concerns here -->
+```
+
 ## Consequences
