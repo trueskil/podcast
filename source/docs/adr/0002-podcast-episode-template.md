@@ -103,6 +103,7 @@ Full Transcript: [link]
 
 # Feedback
 
+- Suggest a topic via GitHub Discussion
 - Submit PR
 - Email us at
 - Connect on X
